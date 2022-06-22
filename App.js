@@ -1,18 +1,21 @@
 import React, {useState, useEffect} from 'react';
-import {View, Text, TouchableOpacity, ScrollView} from 'react-native';
-import Header from './src/components/Header';
-import Title from './src/components/Title';
-import LoginRegisterButton from './src/components/LoginRegisterButton';
+import {NavigationContainer} from '@react-navigation/native';
+import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
+import LoginLanding from './src/screens/LoginLanding';
+import Login from './src/screens/Login';
+
+const Stack = createNativeStackNavigator();
 const App = () => {
   return (
-    <ScrollView>
-      <View style={{flex: 1, backgroundColor: '#FFFFFF'}}>
-        <Header />
-        <Title />
-        <LoginRegisterButton />
-      </View>
-    </ScrollView>
+    <NavigationContainer>
+      <Stack.Navigator
+        initialRouteName="LoginLanding"
+        screenOptions={{headerShown: false}}>
+        <Stack.Screen name="LoginLanding" component={LoginLanding} />
+        <Stack.Screen name="Login" component={Login} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 };
 

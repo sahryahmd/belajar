@@ -1,6 +1,9 @@
 import React from 'react';
 import {View, Text, TouchableOpacity} from 'react-native';
+
+import {useNavigation} from '@react-navigation/native';
 const LoginRegisterButton = () => {
+  const navigation = useNavigation();
   return (
     <View
       style={{
@@ -31,7 +34,8 @@ const LoginRegisterButton = () => {
           paddingVertical: 20,
           borderTopRightRadius: 15,
           borderBottomRightRadius: 15,
-        }}>
+        }}
+        onPress={() => navigation.navigate('Login')}>
         <Text>Sign In</Text>
       </TouchableOpacity>
     </View>
