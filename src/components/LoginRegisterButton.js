@@ -22,7 +22,8 @@ const LoginRegisterButton = () => {
           backgroundColor: '#d50000',
           paddingVertical: 20,
           borderRadius: 15,
-        }}>
+        }}
+        onPress={() => navigation.navigate('Register')}>
         <Text>Register</Text>
       </TouchableOpacity>
       <TouchableOpacity

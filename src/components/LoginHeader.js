@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import {View, Text} from 'react-native';
 
-const LoginHeader = () => {
+const LoginHeader = props => {
   return (
     <View style={{marginTop: 20}}>
       <Text
@@ -12,7 +12,7 @@ const LoginHeader = () => {
           justifyContent: 'center',
           textAlign: 'center',
         }}>
-        Login
+        {props.title}
       </Text>
       <Text
         style={{
@@ -22,7 +22,7 @@ const LoginHeader = () => {
           justifyContent: 'center',
           textAlign: 'center',
         }}>
-        Selamat Data Kembali {'\n'} You Never Walk Alone
+        {props.description}
       </Text>
     </View>
   );
