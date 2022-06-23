@@ -1,0 +1,428 @@
+Persiapan
+  Hello World!
+  Cara Membuka Developer Menu
+  Cara Reload
+  Shortcut VS Code
+  Shortcut Windows
+  CMD Shortcut
+Basic Component
+  Apa itu Component
+  Text Component
+  Text Advanced
+  View Component
+  View Advanced
+  Header
+  Status Bar
+  Image
+  Image Online
+  Resize Mode
+  Touchable Opacity
+  State Pengenalan
+  Switch New
+  TextInput
+  ScrollView
+  StyleSheet
+  Button
+  FlatList
+  Flatlist (Menampilkan Array of Objects)
+  Alert
+  ToastAndroid
+  Backhandler
+  PermissionsAndroid
+  ActivityIndicator
+  Dimensions
+  Linking
+  RefreshControl
+  ImageBackground
+Javascript untuk React Native (Pemula)
+  Membuat Project Baru
+  Pengenalan Tipe Data String
+  Pengenalan Tipe Data Number
+  Pengenalan Tipe Data Boolean
+  Pengenalan Tipe Data Konstanta
+  Pengenalan Tipe Data Object
+  Pengenalan Tipe Data Array
+  Menampilkan Array di Flatlist
+  Menampilkan Array of Object di Flatlist
+  Function
+  Function dengan Nilai Balikan
+React Navigation V5
+  Quick Note
+  Menginstall React Navigation
+  Membuat Route di React Navigation
+  Cara Hide Header
+  Menambahkan Route Baru di React Navigation
+  Cara Memindahkan Screen
+  Cara Kembali ke Route Sebelumnya (Back)
+  Membuat SplashScreen
+  Passing Data
+React Navigation V6
+  Setup React Navigation
+  Membuat Route
+  Navigasi Antar Screen
+  Memindahkan Data Antar Screen
+  Cara Membuat SplashScreen
+  Memanggil Function Ketika Go Back
+  Source Code
+  Cara Menjalankan Source Code
+Praktek: Membuat Aplikasi Kamus
+  Membuat Project Baru
+  Menginstall React Navigation
+  Menginstall React Native Vector Icon
+  Membuat Route
+  Membuat Home Screen
+  Membuat Detail Screen
+  Membuat Fungsi Search
+  Membuat About Screen
+  Mengganti Package Name
+  Mengganti Nama Aplikasi
+  Mengganti Ikon
+  Cara Generate Keystore
+  Membuat File Apk dan Aab
+React Native Library
+  Apa itu Library
+  Membuat Project Baru
+  Cara Membuat Background Gradient
+  Cara Membuat Snackbar
+  Cara Membuat Toast Message
+  Cara Membuat Loading Keren
+  Cara Membuat Modal
+  Cara Menambahkan Ikon
+  Cara Membuat Responsive Grid
+  Cara Membuat Date Picker
+  Date Picker + Modal
+  Cara Membuat Indikator Progress
+  Cara Membuat Tooltip
+  Cara Uninstall Library
+  Cara Membuat Text Input dengan Animasi
+Networking
+  Membuat Project Baru
+  Fetch Data + Menampilkan di Flatlist
+  Post Request
+  Membuat Aplikasi Blog Sederhana - Setup
+  Membuat Aplikasi Blog Sederhana - Routing
+  Membuat Aplikasi Blog Sederhana - Membuat UI
+  Membuat Aplikasi Blog Sederhana - Fetch Data
+  Membuat Aplikasi Blog Sederhana - Pindah Page
+  Membuat Aplikasi Blog Sederhana - Album
+  Source Code Blog
+Advanced Concepts
+  Membuat Project Baru
+  Conditional Styling & Selection
+  Conditional Rendering
+  Component Lifecycle
+  Cara Baru Membuat File APK dan AAB
+  Cara Memisahkan Component
+  Cara Mengirim Props antar Component
+  Cara Menjalankan Aplikasi di Device Asli
+  Cara Custom Font React Native
+Offline CRUD
+  Membuat Project Baru & Menginstall AsyncStorage
+  Create
+  Read
+  Read Array of Object dan Menampilkan Data di Flatlist
+  Update
+  Delete
+Praktek Offline CRUD - Todolist
+  Setup Project
+  Membuat User Interface Todolist
+  Create
+  Read
+  Update
+  Delete
+UI Mastery
+  Membuat User Interface Header
+  Membuat Berbagai Jenis Button
+  Membuat Pop Up Modal
+  Membuat 3 Jenis Bottom Menu Bar
+  Membuat Card - Tipe 1
+  Membuat Card - Tipe 2
+  Membuat Card - Tipe 3
+  Membuat Card - Tipe 4
+  Membuat Card - Tipe 5
+  Membuat Card - Tipe 6
+  Membuat User Interface Login
+  Membuat User Interface Login dengan Gambar Background
+  Membuat User Interface Register Sederhana
+  Edit Profile UI
+  Membuat UI Edit Profile dengan Ganti Tema Dark Mode Lightmode
+  Membuat User Interface Request OTP
+  Unique Login
+  Membuat UI Term of Service
+Animasi
+  Setup
+  Animasi View
+  Animasi Text
+  Animasi Image
+  Tipe Animasi
+  Animasi Berurutan
+  Memanggil Animasi Via Function
+  Apa itu Lottie Files
+  Cara Menggunakan Lottie Files
+App Mastery
+  Membuat Aplikasi Webview
+  Membuat Aplikasi BMI Calculator
+  Membuat Aplikasi Score Counter
+Membuat UI Sosial Media untuk Fashion & Cart System
+  Membuat Project Baru
+  Membuat Card
+  Membuat UI Story
+  Membuat Flatlist
+  Membuat Bottom Bar
+  Mengistall React Navigation
+  Membuat Header Detail
+  Passing Props
+  Styling Product Page
+  Membuat Seleksi Size Baju
+  Format Mata Uang
+  Asyncstorage
+  Membuat UI Cart
+  Integrasi Cart Dengan Asyncstorage
+  Perbaikan Algoritma Penambahan ke Cart
+  Membuat Gambar Cart Dinamis
+  Membuat Total Belanja
+  Membuat Diskon Belanja
+  Source Code
+Maps
+  Inisialisasi Project Maps
+  Mengganti Lokasi Awal di Maps
+  Membuat Fullscreen Maps
+  Menambahkan Marker di Maps
+  Menambahkan Banyak Marker
+  Mengganti Warna Marker
+  Menggambil Lokasi Device
+  Menggambil Lokasi Device Part 2
+  Membuat Polyline
+  Membuat Banyak Polyline
+  Membuat Lingkaran di Maps
+  Membuat Polygon di Maps
+  Cara Mengetahui Jarak Antara 2 Marker di Maps
+  Cara Membuat Fitur Get Nearby
+Functional Component
+  Membuat Project Baru
+  Membuat Component Baru
+  Ganti Tema
+  Text & View Styling
+  View Style
+  Header
+  StatusBar
+  Text Advanced
+  Text Advanced 2
+  Image
+  Image Online
+  Image base64
+  TouchableOpacity
+  Button
+  Pressable
+  TouchableOpacity 2
+  ScrollView
+  StyleSheet
+  Function
+  Flatlist Array Biasa
+  Flatlist Array of Objects
+  Toast Android
+  Activity Indicator
+  useWindowDimensions
+  Image Background
+  BackHandler
+  Linking
+  Permission Android
+  Refresh Control
+  Source Code
+Membuat Aplikasi Material Color
+pada bab ini kita akan belajar tentang bagaimana cara membuat aplikasi material icon, serta konsep-konsep sederhana di functional component
+
+  Membuat Project Baru
+  Membuat User Interface
+  Membuat User Interface & Mekanisme Lengkap
+  Ganti Icon
+  Membuat File Apk dan Aab
+  Source Code
+  Cara Menjalankan Source Code
+Spread Operator
+pada bagian ini anda akan belajar tentang konsep spread operator yang sering sekali dipakai saat membuat aplikasi
+
+  Membuat Project Baru
+  Note Penting di Konstanta
+  Spread Operator
+Bonus
+  Dokumen-dokumen Penunjang Pembelajaran
+Quiz
+Pada bab ini anda akan menjawab pertanyaan tentang react native yang membantu anda untuk mengingat kembali pelajaran yang sudah dipelajari sebelumnya
+
+  Quiz Level 1
+Functional Component [Update]
+Pada bab ini anda akan mengenal tentang react native dan resource untuk mendukung pembelajaran
+
+  Apa itu React Native
+  Join Group
+  Forum Tanya Jawab (Recomended)
+Instalasi
+Pada bab ini kita akan belajar bagaimana caranya menginstall react native dan juga setup development environment
+
+  Cara Menginstall React Native di Windows
+  Daftar Link Software
+  Menginstall Extension VS Code
+  Hello World
+  Membuka Developer Menu
+  Shortcut yang saya gunakan
+  Cara Stop Project
+  Cara Menjalankan Project di Memuplay (Optional)
+Basic Component
+Pada bagian ini kita akan belajar tentang komponen-komponen dasar yang ada di react native.
+
+  Membuat Project Baru
+  View
+  Text
+  StatusBar
+  Header
+  Passing Props Header
+  Image [Offline]
+  Image [Online]
+  Image [Base64]
+  TouchableOpacity
+  Pengenalan State
+  Switch
+  TextInput
+  ScrollView
+  StyleSheet
+  Button
+  Alert
+  Disable Minimap
+  Pressable
+  ImageBackground
+  FlatList
+  Source Code Basic Components
+  Share Kelas Ini
+Navigasi antar Screen
+pada bab ini kita akan belajar bagaimana caranya melakukan navigasi antar screen di react native
+
+  Membuat Project Baru
+  Membuat Route
+  Menavigasikan Antar Screen
+  Membuat Go Back
+  Passing Parameter
+  Membuat Splashscreen
+  Go Back Refresh
+  Ringkasan Materi
+  Source Code
+Pengenalan Hook React Native
+pada bagian ini kita akan belajar beberapa hook yang digunakan di functional component react native
+
+  Pengenalan Hook React Native
+  Pengenalan State
+  Pengenalan Use Effect
+  Source Code
+Membuat Aplikasi Material Color
+Pada sesi ini anda akan belajar bagaimana caranya membuat aplikasi pertama anda
+
+  Menyiapkan Project
+  Membuat Header dan Home
+  Membuat Route dan Detail
+  Menambahkan Icon
+  Membuat Sistem Copy Paste
+  Cara Mengubah Nama Aplikasi
+  Mengganti Package Name
+  Cara Mengganti Icon
+  Cara Membuat File APK dan AAB
+  Source Code Material Colors
+  Daftar Link
+Membuat Aplikasi TodoList
+pada bagian ini kita akan belajar bagaimana caranye mambuat aplikasi todolist sederhana
+
+  Membuat Project Baru
+  Membuat UI Todolist
+  Membuat Sistem Penambahan Todo
+  Membuat Sistem Checklist
+  Membuat Sistem Delete
+  Menghilangkan Bug
+  Membuat Sistem Edit
+  Mengganti Icon Todolist
+  Mengganti Nama Aplikasi Todolist
+  Mengganti Package Name Todolist
+  Membuat File Apk dan Aab
+  Source Code Todolist
+  Daftar Link
+Membuat Aplikasi Kamus
+pada bab ini kita akan belajar bagaimana caranya membuat aplikasi kamus sederhana dengan menggunakan react native
+
+  Membuat Project Baru
+  Routing, Membuat UI Header dan Bottom Menu
+  Memisahkan Menu
+  Ganti Props ke Use Navigation
+  Header Use Navigation
+  Cara Cepat Membuat File JSON
+  Menampilkan Data
+  Passing Props ke Detail
+  Membuat UI Detail
+  Menambahkan Bendera
+  Membuat Sistem Search
+  Membuat UI Profil
+  Membuat Daftar Kata
+  Ganti Icon Kamus
+  Ganti Nama App Kamus
+  Ganti Package Name Kamus
+  APK AAB Kamus
+  Source Code
+React Native Library
+pada bagian ini kita akan belajar bagaimana caranya menambahkan library/package ke dalam project react native
+
+  Pengenalan Library
+  Membuat Project Baru
+  Membuat Gradient
+  SnackBar
+  Loading Keren
+  Modal
+  Flat Grid
+  Date Picker
+  Menghapus Library
+  Source Code
+Networking
+Pada bab ini anda akan belajar tentang cara mengambil data dari server dengan react native
+
+  Membuat Test Server
+  Mengambil Data Dari Server
+  GET Request
+  POST Request
+  PUT Request
+  DELETE Request
+  Then dan Catch
+  Source Code Networking
+Advanced Concepts
+pada bab ini kita akan belajar konsep-konsep yang advanced yang ada di react native dan sering digunakan
+
+  Intro
+  Custom Font
+  Source Code Font
+  Favorite UI
+  Source Code Favorite
+Membuat Aplikasi QR Code
+pada bab ini kita akan belajar bagaimana caranya untuk membuat aplikasi pembaca qr code dengan menggunakan react native
+
+  Membuat Aplikasi QR Code
+  Mencoba Aplikasi di HP
+  Ganti Icon Aplikasi
+  Ganti Nama Aplikasi
+  Ganti Package Name Aplikasi
+  Membuat APK dan AAB Aplikasi QR
+  QR SCAN Source Code
+Firebase (On Progress)
+pada bab ini kita akan belajar bagaimana caranya untuk menggunakan firebase dan menginstegrasikannya ke react native
+
+  Apa itu Firebase
+  Apa itu Auth
+  Siapa Saja yang Menggunakan Firebase
+  Cara Setup Firebase di React Native
+  Membuat Route Firebase
+  Membuat UI Login Firebase
+  Membuat UI Register Firebase
+  Membuat UI Lupa Password
+  Setup Auth
+  Membuat Auto Pindah Screen Ketika Udah Login
+  Membuat Fitur Log Out
+  Membuat Fitur Login
+  Membuat Fitur Lupa Password
+  Cara Cek Dokumentasi
+  Cara Menggunakan Dashboard Auth
+  Source Code Auth
+  Link Dokumentasi
